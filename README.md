@@ -9,7 +9,7 @@ Install it and run:
 git clone https://github.com/dedzec/fuse-demo-clone.git
 
 # enter the project directory
-cd react-app
+cd fuse-demo-clone
 
 # install dependency
 npm install
